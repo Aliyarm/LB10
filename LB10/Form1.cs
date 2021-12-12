@@ -28,7 +28,7 @@ namespace LB10
             g.DrawLine(p, 97, 258, 110, 265);
             g.DrawLine(p, 120, 275, 110, 265);
             g.DrawLine(p, 250, 275, 260, 265);
-            g.DrawLine(p, 270, 278, 260, 265);
+            g.DrawLine(p, 271, 277, 260, 265);
             g.DrawLine(p, 273, 258, 260, 265);
             SolidBrush W = new SolidBrush(Color.White); // туловище
             g.FillEllipse(W, 150, 135, 70, 70);
